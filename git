@@ -1,0 +1,21 @@
+1. git init
+
+2. repository
+	 git remote add origin https://github/com/yourUserName/test.git
+	 git clone https://github/com/yourUserName/test.git
+
+3. git add . #adds all new files
+	 git add -u #updates tracking for files that changed names or were deleted
+   git add -A	#dose both
+
+4. git commit -m "message"
+
+5. git push
+
+6. git checkout -b branchname
+   git branch #see what branch you are
+	 git checkout master #switch back to the master branch
+
+7. for github -> pull requests
+
+
